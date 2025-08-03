@@ -1,4 +1,4 @@
-# Virtual Assistant 🧠 | MERN Stack
+# Auri - Virtual Assistant 🧠 | MERN Stack
 
 A responsive, intelligent virtual assistant web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This assistant processes voice commands and responds in real-time, showcasing seamless integration between AI capabilities and full-stack web technologies.
 
@@ -86,4 +86,5 @@ Durga Pavan Kumar Teki
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
