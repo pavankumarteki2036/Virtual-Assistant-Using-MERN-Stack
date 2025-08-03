@@ -77,9 +77,13 @@ voice-assistant/
 ## 🧑‍💻 Author
 
 Durga Pavan Kumar Teki
-📫 "LinkedIn" • 🌐 GitHub
+
+🔗 [GitHub Repo](https://github.com/pavankumarteki2036/Virtual-Assistant-Using-MERN-Stack)
+💼 [LinkedIn](https://www.linkedin.com/in/pavankumarteki)
+
 
 ---
 
 ## 📄 License
 This project is licensed under the MIT License.
+
